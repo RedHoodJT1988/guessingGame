@@ -1,0 +1,14 @@
+/Users/redhood/Desktop/code-projects/cs-projects/guessingGame/bin/Debug/net9.0/guessingGame
+/Users/redhood/Desktop/code-projects/cs-projects/guessingGame/bin/Debug/net9.0/guessingGame.deps.json
+/Users/redhood/Desktop/code-projects/cs-projects/guessingGame/bin/Debug/net9.0/guessingGame.runtimeconfig.json
+/Users/redhood/Desktop/code-projects/cs-projects/guessingGame/bin/Debug/net9.0/guessingGame.dll
+/Users/redhood/Desktop/code-projects/cs-projects/guessingGame/bin/Debug/net9.0/guessingGame.pdb
+/Users/redhood/Desktop/code-projects/cs-projects/guessingGame/obj/Debug/net9.0/guessingGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/redhood/Desktop/code-projects/cs-projects/guessingGame/obj/Debug/net9.0/guessingGame.AssemblyInfoInputs.cache
+/Users/redhood/Desktop/code-projects/cs-projects/guessingGame/obj/Debug/net9.0/guessingGame.AssemblyInfo.cs
+/Users/redhood/Desktop/code-projects/cs-projects/guessingGame/obj/Debug/net9.0/guessingGame.csproj.CoreCompileInputs.cache
+/Users/redhood/Desktop/code-projects/cs-projects/guessingGame/obj/Debug/net9.0/guessingGame.dll
+/Users/redhood/Desktop/code-projects/cs-projects/guessingGame/obj/Debug/net9.0/refint/guessingGame.dll
+/Users/redhood/Desktop/code-projects/cs-projects/guessingGame/obj/Debug/net9.0/guessingGame.pdb
+/Users/redhood/Desktop/code-projects/cs-projects/guessingGame/obj/Debug/net9.0/guessingGame.genruntimeconfig.cache
+/Users/redhood/Desktop/code-projects/cs-projects/guessingGame/obj/Debug/net9.0/ref/guessingGame.dll
